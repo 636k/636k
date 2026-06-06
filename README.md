@@ -4,9 +4,9 @@
     ________________________________________________________________________________________________________________________________________________ <br />
     <br />
     <sub style="color:white; font-family:Segoe UI; font-size:25px;">
-      <strong>Note:</strong> I don't know what to type here :P <br />
-      Well on the bottom you can check out some of my Projects that <br />
-      i'm currently working on. I'm not actively updating my App <br />
+      I don't really know what to write here :P <br />
+      At the bottom, you can check out some of my Projects which <br />
+      I'm currently working on.<br />
     </sub>
   </div>
 </div>
